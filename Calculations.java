@@ -13,7 +13,8 @@ public class Calculations {
 		int quotient = x/y;
 		System.out.println("The quotient is = " + quotient);
 		
-		//member_D add the feature of multiplying x by y and print the result
+		int product = x*y;
+		System.out.println("The product is = " + product);
 		
 		
 	}
