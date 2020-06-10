@@ -4,11 +4,14 @@ public class Calculations {
 		int x = 2;
 		int y = 1;
 		
-		//sum of x and y 
+		
 		int sum = x+y;
 		System.out.println("The sum is= "+ sum);
 		
-		//member_B add the feature of subtracting x from y and print the result
+		int difference= y-x;
+		System.out.println("The difference is= "+ difference);
+		
+		
 		
 		//member_C add the feature of dividing x by y and print the result
 		
